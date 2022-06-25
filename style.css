@@ -630,7 +630,11 @@ footer a:hover::after{
         width: 200px;
         right: -200px;
         top: 0;
-        background:rgb(180, 180, 180);
+        /* background:rgb(180, 180, 180); */
+        background-color:white ;
+          
+       border-radius: 6px;
+        
         text-align: center;
         padding-top: 80px;
         z-index: 2;
