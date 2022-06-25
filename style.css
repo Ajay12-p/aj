@@ -356,7 +356,7 @@ section .title::after{
     background:rgb(121, 209, 241);;
 }
 .skills-content .right .html::before{
-    width: 90%;
+    width: 70%;
 }
 .skills-content .right .css::before{
     width: 60%;
@@ -364,10 +364,13 @@ section .title::after{
 .skills-content .right .js::before{
     width: 70%;
 }
-.skills-content .right .bootstrap::before{
-    width: 90%;
+.skills-content .right .node::before{
+    width: 60%;
 }
-.skills-content .right .vue::before{
+.skills-content .right .mongo::before{
+    width: 50%;
+}
+.skills-content .right .bootstrap::before{
     width: 50%;
 }
 .skills-content .right .react::before{
